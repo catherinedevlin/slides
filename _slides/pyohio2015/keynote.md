@@ -8,13 +8,13 @@ title: Open Source Society
 
 ## Catherine Devlin
 
-## PyOhio 2015
+[http:// bit.ly/pyohio2015keynote ](bit.ly/pyohio2015keynote)
 
 ---
 
 # c'est moi
 
-- Chem eng, DBA (1999), Pythonista (2004?)
+- Chem eng, DBA (1999), Pythonista (2004)
 - Minnesotan expat in Dayton
 - PyOhio chair 2008, 2009
 
@@ -59,15 +59,19 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 ---
 
+![PyCon Taiwan](pyohio-pac.jpg)
+
 Yung-Yu Chen, PyCon Taiwan
 
 ---
+
+## Managing ourselves
 
 - Hierarchy
 - Regulations
 - Marketplace
 
-Corporations, organizations, ...
+Governments, Corporations, organizations, ...
 
 ---
 
@@ -566,3 +570,5 @@ Experiments are ongoing!
 18f.gsa.gov
 
 catherinedevlin@blogspot.com
+
+[http:// bit.ly/pyohio2015keynote ](bit.ly/pyohio2015keynote)

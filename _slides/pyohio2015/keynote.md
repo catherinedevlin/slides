@@ -8,7 +8,7 @@ title: Open Source Society
 
 ## Catherine Devlin
 
-[bit.ly/pyohiokeynote2015](http://bit.ly/pyohiokeynote2015)
+[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
 
 ---
 
@@ -57,7 +57,7 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 ---
 
-![PyCon Taiwan](pyohio-pac.jpg)
+![PyCon Taiwan]({{site.baseurl}}/assets/pyohio2015/pyohio-pac.jpg)
 
 Yung-Yu Chen, PyCon Taiwan
 
@@ -327,9 +327,9 @@ Part of iteration
 
 ## Critique
 
-![WONTFIX, not malicious](not_malicious.png)
+![WONTFIX, not malicious]({{site.baseurl}}/assets/pyohio2015/not_malicious.png)
 
-![WONTFIX, not only](not_only.png)
+![WONTFIX, not only]({{site.baseurl}}/assets/pyohio2015/not_only.png)
 
 ---
 
@@ -351,7 +351,7 @@ Location, location, location
 
 ---
 
-![Handicap icon with laptop](disability.png)
+![Handicap icon with laptop]({{site.baseurl}}/assets/pyohio2015/disability.png)
 
 ---
 
@@ -567,4 +567,4 @@ Experiments are ongoing!
 
 catherinedevlin@blogspot.com
 
-[bit.ly/pyohiokeynote2015](http://bit.ly/pyohiokeynote2015)
+[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)

@@ -327,7 +327,7 @@ Part of iteration
 
 > If you are a woman in Open Source, you will eventually give a talk about being a woman in Open Source.
 
-> - Emma Jane Hogbin, Gabrielle Roth
+> \-- Emma Jane Hogbin, Gabrielle Roth
 
 ---
 

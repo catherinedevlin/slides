@@ -8,7 +8,7 @@ title: Open Source Society
 
 ## Catherine Devlin
 
-[http:// bit.ly/pyohio2015keynote ](bit.ly/pyohio2015keynote)
+[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
 
 ---
 
@@ -24,7 +24,7 @@ title: Open Source Society
 
 CM, Shahank, Adam, Yuda, Christine, Theresa, Yoz, and more...
 
-## Also: US Digital Service
+Also: US Digital Service
 
 ---
 
@@ -37,9 +37,7 @@ part of this change.
 
 ---
 
-# Handbasket
-
-![Giant Longaberger basket](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
+![Giant handbasket](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
 
 ---
 
@@ -59,7 +57,7 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 ---
 
-![PyCon Taiwan](pyohio2015/pyohio-pac.jpg)
+![PyCon Taiwan](pyohio-pac.jpg)
 
 Yung-Yu Chen, PyCon Taiwan
 
@@ -567,4 +565,4 @@ Experiments are ongoing!
 
 catherinedevlin@blogspot.com
 
-[http:// bit.ly/pyohio2015keynote ](bit.ly/pyohio2015keynote)
+[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)

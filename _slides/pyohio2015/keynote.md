@@ -59,7 +59,7 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 ---
 
-![PyCon Taiwan](pyohio-pac.jpg)
+![PyCon Taiwan](pyohio2015/pyohio-pac.jpg)
 
 Yung-Yu Chen, PyCon Taiwan
 
@@ -82,10 +82,6 @@ Governments, Corporations, organizations, ...
 ---
 
 <img src="http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451626650_9781451626650_hr.jpg" height="400" />
-
----
-
-![Dilbert](http://www.glaad.org/sites/default/files/dilbert%20dogbert.jpg)
 
 ---
 

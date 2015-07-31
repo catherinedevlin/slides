@@ -8,7 +8,7 @@ title: Open Source Society
 
 ## Catherine Devlin
 
-[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
+[bit.ly/pyohiokeynote2015](http://bit.ly/pyohiokeynote2015)
 
 ---
 
@@ -335,15 +335,17 @@ Part of iteration
 
 ## Rich test suite
 
-  $ ls tests/diversity/
-  test_age.py     		test_gsm.py
-  test_background.py	test_immigrant.py
-  test_disability.py	test_racial.py
-  test_gender.py   		test_religion.py
+    $ ls tests/diversity/
+    test_age.py     		test_gsm.py
+    test_background.py	test_immigrant.py
+    test_disability.py	test_racial.py
+    test_gender.py   		test_religion.py
 
 ---
 
 Location, location, location
+
+[Racial Dot Map](http://demographics.coopercenter.org/DotMap/)
 
 ![YWCA programming class](http://2.bp.blogspot.com/-jszacb4DvgE/VaBJTqfCABI/AAAAAAAADAE/H-TpBttobNk/s1600/ywca.jpg)
 
@@ -565,4 +567,4 @@ Experiments are ongoing!
 
 catherinedevlin@blogspot.com
 
-[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
+[bit.ly/pyohiokeynote2015](http://bit.ly/pyohiokeynote2015)

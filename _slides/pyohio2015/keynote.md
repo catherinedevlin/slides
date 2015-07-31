@@ -22,7 +22,7 @@ title: Open Source Society
 
 # 18F: Your tax dollars at work!
 
-CM, Shahank, Adam, Yuda, Christine, Theresa, Yoz, and more...
+CM, Shahank, Adam, Yuda, Christine, Theresa, Yoz, Dave, and more...
 
 Also: US Digital Service
 
@@ -49,7 +49,7 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 # Scale
 
-- Bands ([Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) ~ 150)
+- Bands
 - Tribes
 - Kingdoms
 - States
@@ -62,6 +62,13 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 Yung-Yu Chen, PyCon Taiwan
 
 ---
+
+## ([Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+
+~150
+
+---
+
 
 ## Managing ourselves
 
@@ -336,18 +343,20 @@ Part of iteration
 ## Rich test suite
 
     $ ls tests/diversity/
-    test_age.py     		test_gsm.py
-    test_background.py	test_immigrant.py
-    test_disability.py	test_racial.py
-    test_gender.py   		test_religion.py
+    test_age.py           test_gsm.py
+    test_background.py    test_immigrant.py
+    test_disability.py	  test_racial.py
+    test_gender.py        test_religion.py
 
 ---
 
-Location, location, location
+## Location, partnership
 
 [Racial Dot Map](http://demographics.coopercenter.org/DotMap/)
 
-![YWCA programming class](http://2.bp.blogspot.com/-jszacb4DvgE/VaBJTqfCABI/AAAAAAAADAE/H-TpBttobNk/s1600/ywca.jpg)
+<img src="http://2.bp.blogspot.com/-jszacb4DvgE/VaBJTqfCABI/AAAAAAAADAE/H-TpBttobNk/s1600/ywca.jpg" height="300px" alt="members of YWCA programming class">
+
+YWCA Dayton Summer Camp
 
 ---
 
@@ -379,9 +388,9 @@ Location, location, location
 
 ## Gatekeeping
 
-![Drill instructor](https://www.flickr.com/photos/tylerbolken/13384711585/in/photolist-moLNZz-moLBqn-moLh1T-moL4XK-moLH96-moL9rp-moLwtt-moNaBf-moMM5w-moM2yc-6ncaez-97qsCn-97qq9D-5DCbzi-cn4Zhq-moLebV-moNcyS-axW9cA-nGJkff-axTrNK-axTsvB-axTrVa-9CdiAh-9ozQrj-9h6wJE-ofVmzu-8vEXwC-cn4YmW-9h6wkq-9sMWfM-9Gte88-9h6wFE-8qPEKE-9k6zaz-5DBByk-9k9PUj-9k6Kd6-9k6JUV-9bex21)
+<img src="https://www.flickr.com/photos/marine_corps/8654792719/in/photolist-ebN5m8-wiVzDv-dPdYEH-dQrWyY-6avFaT-8dg37A-bxVFnA-dHxBf3-bP5mrt-fjsia7-nkwpZD-584iB5-moLebV-btAi66-dPffU6-eUDjoV-eSjKzP-eUyDuA-enhY5L-moNcyS-moLNZz-eUo7Y4-eWMTUQ-eUDgAZ-eUzsGw-moLBqn-29EYV2-eniazW-eni53G-fjd3zk-2B592C-moLh1T-fvJTV3-eniApS-emSkkD-eniHNf-enip1L-enhqqb-eUyFjY-emTutV-fjshr1-emSbXr-eQaLx3-eUDi1v-ePYijp-eSwazy-ePYjDz-fjd8tc-eUztc3-eniHas" alt="Drill instructor" height="300px" />
 
-<sup><sub>[Source](https://www.flickr.com/photos/tylerbolken/13384711585/in/photolist-moLNZz-moLBqn-moLh1T-moL4XK-moLH96-moL9rp-moLwtt-moNaBf-moMM5w-moM2yc-6ncaez-97qsCn-97qq9D-5DCbzi-cn4Zhq-moLebV-moNcyS-axW9cA-nGJkff-axTrNK-axTsvB-axTrVa-9CdiAh-9ozQrj-9h6wJE-ofVmzu-8vEXwC-cn4YmW-9h6wkq-9sMWfM-9Gte88-9h6wFE-8qPEKE-9k6zaz-5DBByk-9k9PUj-9k6Kd6-9k6JUV-9bex21)</sub></sup>
+<sup><sub>[Source](https://www.flickr.com/photos/marine_corps/8654792719/in/photolist-ebN5m8-wiVzDv-dPdYEH-dQrWyY-6avFaT-8dg37A-bxVFnA-dHxBf3-bP5mrt-fjsia7-nkwpZD-584iB5-moLebV-btAi66-dPffU6-eUDjoV-eSjKzP-eUyDuA-enhY5L-moNcyS-moLNZz-eUo7Y4-eWMTUQ-eUDgAZ-eUzsGw-moLBqn-29EYV2-eniazW-eni53G-fjd3zk-2B592C-moLh1T-fvJTV3-eniApS-emSkkD-eniHNf-enip1L-enhqqb-eUyFjY-emTutV-fjshr1-emSbXr-eQaLx3-eUDi1v-ePYijp-eSwazy-ePYjDz-fjd8tc-eUztc3-eniHas)
 
 ---
 
@@ -438,16 +447,16 @@ No need for interfaces!
 - No control
 - No prediction
 
-    history | awk '{a[$2]++}END{for(i in a)
-      {print a[i] " " i}}' | sort -rn | head
+    history | awk '{a[$2]++}END{for(i in a) \
+    {print a[i] " " i}}' | sort -rn | head
 
 <sub><sup>[source](http://www.commandlinefu.com/commands/view/604/list-of-commands-you-use-most-often#comment)</sup></sub>
 
 ---
 
-API Design
+## API Design
 
-Documentation
+## Documentation
 
   - Markdown, ReStructured Text
   - Sphinx
@@ -527,7 +536,7 @@ Medieval - on the inside!
 
 ## Imagine...
 
-[modern clarity](http://www.consumerfinance.gov/eregulations/1005-10/2014-20681#1005-10-a)
+Modernized usability: [CFPB's eRegs](http://www.consumerfinance.gov/eregulations/1005-10/2014-20681#1005-10-a)
 
 ---
 

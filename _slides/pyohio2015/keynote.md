@@ -394,14 +394,6 @@ YWCA Dayton Summer Camp
 
 ## Gatekeeping
 
-![Drill Instructor](https://www.flickr.com/photos/marine_corps/8654792719/in/photolist-ebN5m8-wiVzDv-dPdYEH-dQrWyY-6avFaT-8dg37A-bxVFnA-dHxBf3-bP5mrt-fjsia7-nkwpZD-584iB5-moLebV-btAi66-dPffU6-eUDjoV-eSjKzP-eUyDuA-enhY5L-moNcyS-moLNZz-eUo7Y4-eWMTUQ-eUDgAZ-eUzsGw-moLBqn-29EYV2-eniazW-eni53G-fjd3zk-2B592C-moLh1T-fvJTV3-eniApS-emSkkD-eniHNf-enip1L-enhqqb-eUyFjY-emTutV-fjshr1-emSbXr-eQaLx3-eUDi1v-ePYijp-eSwazy-ePYjDz-fjd8tc-eUztc3-eniHas)
-
-[Source](https://www.flickr.com/photos/marine_corps/8654792719/in/photolist-ebN5m8-wiVzDv-dPdYEH-dQrWyY-6avFaT-8dg37A-bxVFnA-dHxBf3-bP5mrt-fjsia7-nkwpZD-584iB5-moLebV-btAi66-dPffU6-eUDjoV-eSjKzP-eUyDuA-enhY5L-moNcyS-moLNZz-eUo7Y4-eWMTUQ-eUDgAZ-eUzsGw-moLBqn-29EYV2-eniazW-eni53G-fjd3zk-2B592C-moLh1T-fvJTV3-eniApS-emSkkD-eniHNf-enip1L-enhqqb-eUyFjY-emTutV-fjshr1-emSbXr-eQaLx3-eUDi1v-ePYijp-eSwazy-ePYjDz-fjd8tc-eUztc3-eniHas)
-
----
-
-## Skill Hoarding
-
 - Weeder courses
 
 - Hazing
@@ -547,8 +539,7 @@ Medieval - on the inside!
     Property Owner shall notify Renter
     within {{notification_interval_days}} days...
 
-    {
-      "governing law": "BSD Residential Rental Code v3.0",
+    { "governing law": "BSD Residential Rental Code v3.0",
       "notification_interval_days": 14,
     
 ---

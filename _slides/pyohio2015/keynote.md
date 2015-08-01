@@ -538,7 +538,7 @@ Medieval - on the inside!
 
 <pre>
 Property Owner shall notify Renter
-within \{\{notification_interval_days\}\} days...
+within {{ notification_interval_days }} days...
 
 { "governing law": "BSD Residential Rental Code v3.0",
 "notification_interval_days": 14,

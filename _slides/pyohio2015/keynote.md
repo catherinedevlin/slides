@@ -63,9 +63,9 @@ Yung-Yu Chen, PyCon Taiwan
 
 ---
 
-## ([Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+## [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 
-~150
+### ~150
 
 ---
 
@@ -109,6 +109,10 @@ Governments, Corporations, organizations, ...
 * More industries
 * Society's structure
 * Mind
+
+---
+
+# Scaling people
 
 ---
 
@@ -188,15 +192,13 @@ Governments, Corporations, organizations, ...
 
 ---
 
+## Openness outside software
+
+Open Hardware, Open Music, ...
+
 [prose.io](http://prose.io)
 
 [Music to recipes](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding)
-
----
-
-## Closedness in government
-
-[PublicResource.org](http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document)
 
 ---
 
@@ -538,30 +540,41 @@ Medieval - on the inside!
 
 ---
 
-## Imagine...
-
-Modernized usability: [CFPB's eRegs](http://www.consumerfinance.gov/eregulations/1005-10/2014-20681#1005-10-a)
+> Governing law: BSD Residential Rental Code v3.0
 
 ---
 
-> Governing law: BSD Nonprofit Tax Code v3.0
+    Property Owner shall notify Renter
+    within {{notification_interval_days}} days...
 
+    {
+      "governing law": "BSD Residential Rental Code v3.0",
+      "notification_interval_days": 14,
+    
 ---
+
+# Jetpack yet?
 
 [Free Law movement](https://www.civicquarterly.com/article/defragmenting-democracy/)
 
-[Digitized laws](http://www.federaltimes.com/story/government/it/2015/07/28/digitizing-lawmaking-regulations/30785971/
+Modernized usability: [CFPB's eRegs](http://www.consumerfinance.gov/eregulations/1005-10/2014-20681#1005-10-a)
+
+[Digitized laws](http://www.federaltimes.com/story/government/it/2015/07/28/digitizing-lawmaking-regulations/30785971/)
 
 ---
 
-# Review
-
-- Openness
-- Humility
-- Scaling
-- Interoperability
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. Critique
+5. Diversity
+6. Growth
+7. Interfaces
+8. Encapsulation
 
 ---
+
+# Premise
 
 FOSS will change the world.
 
@@ -578,6 +591,8 @@ Experiments are ongoing!
 
 18f.gsa.gov
 
-catherinedevlin@blogspot.com
+catherinedevlin@gmail.com
+
+catherinedevlin.blogspot.com
 
 [bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)

@@ -112,6 +112,10 @@ Governments, Corporations, organizations, ...
 
 ---
 
+# PyPI: Twenty Thousand Strong
+
+---
+
 # Laboratory of cooperation
 
 - Tools

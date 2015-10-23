@@ -5,10 +5,10 @@
   ##   #     # ######      #   ####  #      # #####  ######  ####  
  # #   #     # #          #   #      #      # #    # #      #      
    #    #####  #####     #     ####  #      # #    # #####   ####  
-   #   #     # #        #          # #      # #    # #           # 
-   #   #     # #       #      #    # #      # #    # #      #    # 
+   #   #     # #        #          # #      # #    # #           #
+   #   #     # #       #      #    # #      # #    # #      #    #
  #####  #####  #      #        ####  ###### # #####  ######  ####  
-                                                                   
+
 ```
 # Why 18F/slides
 
@@ -42,6 +42,17 @@ To use 18F/slides:
 # How does it work?
 
 18F/slides leverages the amazing open-source [reveal.js](https://github.com/hakimel/reveal.js/) library and [jekyll](http://jekyllrb.com) and is hosted on [github pages](https://pages.github.com/).
+
+# How can I preview the results on my own machine?
+
+By installing Jekyll directly, or installing [Docker](https://www.docker.com/) and running
+
+    docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
+        -it -p 127.0.0.1:4000:4000 jekyll/jekyll jekyll s
+
+then visiting http://0.0.0.0:4000/slides/(filename)
+
+where (filename) is the name of your slide deck's markdown file (without `.md`)
 
 # How can I make it better?
 

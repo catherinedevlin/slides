@@ -93,7 +93,7 @@ https://api.usa.gov/jobs/search.json?query=engineering+in+OH
 
 # program with it
 
-[Jupyter Notebook](http://localhost:8888/notebooks/jobs.ipynb)
+[Jupyter Notebook](https://github.com/catherinedevlin/slides/blob/gh-pages/_slides/jobs.ipynb)
 
 ---
 
@@ -105,7 +105,7 @@ Program with this?
 
 [BeautifulSoup4](http://www.crummy.com/software/BeautifulSoup/)
 
-[Jupyter Notebook](http://localhost:8888/notebooks/tires.ipynb)
+[Jupyter Notebook](https://github.com/catherinedevlin/slides/blob/gh-pages/_slides/tires.ipynb)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: evergreen
 path: evergreen
 title: Open Source Society
 ---
@@ -8,23 +8,20 @@ title: Open Source Society
 
 ## Catherine Devlin
 
-[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
+[bit.ly/evergreen2017keynote](http://bit.ly/evergreen2017keynote)
 
 ---
 
-# Not the topic 
+# Not the topic
 
 The society of open source
 
-<!-- Not the traditional talk about how open source works -->
-
-<!-- or how it makes money -->
-
-<!-- what crazy anarchists!  What sorcery? -->
+Note:
+what crazy anarchists!  What sorcery?
 
 ---
 
-# Topic 
+# Topic
 
 Open source impact on society:
 
@@ -39,7 +36,11 @@ Open source impact on society:
 - Accidental programmer & DBA
 - `ipython-sql`
 - FOSS society fan: PyOhio 2008
-- Public employee: 18F 
+- Public employee: 18F
+
+---
+
+![International Falls Public Library](http://www.islandviewrealty.com/wp-content/uploads/2016/04/internationalfallslibrary.jpg)
 
 ---
 
@@ -48,18 +49,19 @@ Open source impact on society:
 - Write code
 - Implement
 - Popularize
-- Document 
+- Document
 - Adapt
 - Teach
 - Bug reports
 
 ---
 
-# Status report 
+# Status report
 
 ![Giant handbasket](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
 
-<!-- I missed Ohio's State of the State address on Tuesday.  -->
+Note:
+I missed Ohio's State of the State address on Tuesday.  
 
 ---
 
@@ -73,15 +75,20 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 # Scale
 
-<!-- Human cooperation enables most of this improvement. -->
-
-<!-- But we're not built to cooperate at this scale. -->
+Note:
+We think technology, but even technology comes from SCALE.
+We are social animals.  Wired to cooperate.
+Hardly any of us could survive a month alone,
+but together, pyramids and reusable rockets.
 
 ---
 
 ## [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 
 ### ~150
+
+Note:
+Trouble is, our built-in cooperation has a limit.
 
 ---
 
@@ -95,14 +102,15 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 # Hierarchy
 
-> Enlil-bani, wondrous king among the princes!  Created by An, 
-elevated by Enlil, like Uti the light of all lands, 
-born to princedom, girded with all the divine powers, 
+> Enlil-bani, wondrous king among the princes!  Created by An,
+elevated by Enlil, like Uti the light of all lands,
+born to princedom, girded with all the divine powers,
 watched over by Enlil and listened to by Ninlil
-on account of the widespread people living at the 
+on account of the widespread people living at the
 boundary of heaven and earth!
 
-<!-- King of Sumeria, ~ 1800 BC -->
+Note:
+King of Sumeria, ~ 1800 BC
 
 ---
 
@@ -110,16 +118,19 @@ boundary of heaven and earth!
 
 - Hammurabi
 - Solon
-- Numa 
+- Numa
 - Alfred
 - Hiawatha
 - Quetzalcoatl
 
 ---
 
-# Marketplace 
+# Marketplace
 
-<!-- Every public good is in danger of sacrifice -->
+![People praying at bull statue](../bullprayer2.jpg)
+
+Note:
+Source: https://wonkette.com
 
 ---
 
@@ -137,17 +148,20 @@ They work, BUT
 
 <img src="http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451626650_9781451626650_hr.jpg" height="400" />
 
+Note:
+We feel that our intelligence and goodwill are hampered, not enhanced
+
+... which is odd, because
 <!-- We feel that they do not empower human intelligence, but hamstring it -->
 
 ---
 
 ![Branches of U.S. Government](https://gsa-cmp-fileupload.s3.amazonaws.com/USA_Government_Branches_Infographic.png)
 
-<!-- -->
+Note:
+Attitudes toward government as if it were a foreign occupier
 
-<!-- not a foreign occupier -->
-
-<!-- OK, but can we have a more productive revolution? -->
+With all this discontent, how can we have a positive revolution?
 
 ---
 
@@ -157,47 +171,57 @@ They work, BUT
 * Industrial
 * Information
 
+Note:
+It's a revolutionary time!
+
+I remember the 1980s, when "information revolution"
+seemed like a grandiose term
+
 ---
 
 ![Power looms](https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg)
 
+Note:
+But then again, in the first few years of the industrial revolution,
+anybody would have said it was great for producing cloth.
+
 ---
 
-# Changes to 
+# Changes to
 
 * More industries
 * Society's structure
 * Mind
 
-<!-- urbanization -->
+Notes:
+Urbanization
 
-<!-- Supernatural: wild, to great cultivator, to a machine -->
+Supernatural: wild/dangerous; cultivator; machine
 
 ---
 
 # Scaling cooperation
 
-<!-- back to the first problem -->
+Notes:
+So, can this information revolution apply to
+our scaling problem?
 
-<!-- Cooperative technologies developed with revolutions -->
+Every revolution has involved cooperative technologies
 
-<!-- Took centuries -->
+Took centuries
 
-<!-- Don't know the results, but excited about prospects -->
+Don't know where this is going, but excited for prospects
 
 ---
 
 # 130,000 Packages
 
-![Software package counts](module-counts.png)
+![Software package counts](../module-counts.png)
 
-<!-- Python: 20,000 package contributors-->
+Notes:
+20,000 Python contributors
 
-<!-- big company -->
-
-<!-- teaching, document, popularize, bug reports -->
-
-<!-- without: hierarchy, law, marketplace -->
+Without hierarchy, law/regulations, marketplace
 
 ---
 
@@ -206,6 +230,9 @@ They work, BUT
 - Tools
 - Techniques
 - Attitudes
+
+Notes:
+And, in fact, it's happening
 
 ---
 
@@ -228,13 +255,13 @@ They work, BUT
 
 # Science!
 
-From alchemy to chemistry 
+From alchemy to chemistry
 
 ---
 
 # Tour the Laboratory
 
-1. Non-ownership 
+1. Non-ownership
 2. Humility
 3. Soft Boundaries
 4. Critique
@@ -243,12 +270,12 @@ From alchemy to chemistry
 7. Interfaces
 8. Encapsulation
 
+Notes:
+Iterate, test, improve, publish
 
-<!-- Iterate, test, improve, publish -->
+Engineering, not science
 
-<!-- Engineering, not science -->
-
-<!-- Not techniques - think how to extend into society -->
+The question is how these techniques can spread beyond software
 
 ---
 
@@ -271,9 +298,13 @@ From alchemy to chemistry
 
 - Prosperity
 
-<!-- Ownership of ideas is weird, but money isn't -->
+Notes:
+Ownership of ideas is weird
 
-<!-- centuries of patent law have made this seem natural -->
+Centuries of patent and copyright makes us think it's normal
+
+Libraries have their own interesting relationship to the
+ownership of ideas
 
 ---
 
@@ -281,21 +312,28 @@ From alchemy to chemistry
 
 <img src="http://previews.123rf.com/images/squarelogo/squarelogo1207/squarelogo120700055/14651230-Vintage-Top-Secret-Recipe-Stock-Vector-shield.jpg" height="200" alt="Secret Recipe" />
 
-<img src="http://thompsonhall.com/redesign/wp-content/uploads/2012/03/patent.png" height="200" alt="Patented" />
+Secret == Valuable == Good
 
-<!-- Trust me - it's secret, thus valuable -->
+Notes:
+Tom Sawyer pitch
 
-<!-- -->
+And yet, the idea has been so long ground in that now we
+take it as a credential
 
 ---
 
-# Openness
+# Openness is valuable
 
-- Trust 
+- Trust
 - Credentials
 - Cooperation
 
-<!-- In the end, chemistry is more credible than alchemy. -->
+Notes:
+But there's another way to gain credibility, and it's gaining traction.
+
+Don't trust me.  See for yourself.
+
+In the end, chemistry is more credible than alchemy.
 
 ---
 
@@ -308,19 +346,26 @@ Tool of non-ownership
 - Evolve
 - Credit
 
-[prose.io](http://prose.io): versioned text 
+[prose.io](http://prose.io): versioned text
+
+Notes:
+Version control lets us cooperate with all these
+
+Publishing with version-control hosts like Github makes
+open the default
 
 ---
 
 ## Non-ownership outside software
-
-Libraries!
 
 - [Open Hardware](https://www.oshwa.org/)
 - [Open Music](http://open-music.org/#principles)
 - [wikihouse](https://wikihouse.cc/)
 - [Open Beer](http://www.brewtarget.org/)
 - [more](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding)
+
+Notes:
+Can this go beyond software?  Early experiments are already underway.
 
 ---
 
@@ -333,6 +378,13 @@ Libraries!
 - [data.gov](http://www.data.gov/)
 
 - FOIA [Release to One, Release to All](http://www.pogo.org/blog/2015/07/foia-release-one-to-all.html?referrer=https://www.google.com/)
+
+- [not all is rosy](https://twitter.com/govtrack/status/849766205690978305)
+
+Notes:
+I hope that you are acting similarly in your own libraries
+and other institutions.  Think about how to make your work
+more visible, more point-at-able.
 
 ---
 
@@ -349,11 +401,16 @@ Libraries!
 
 ## Optics
 
-Illusion of perfection 
+Illusion of perfection
 
 - Emotion
 
 - Salesmanship
+
+Notes:
+Which is best understood by considering its opposite.
+
+Business intimidation, public intimidation
 
 ---
 
@@ -367,11 +424,12 @@ Illusion of perfection
 
 - Fail fast
 
-- Get feedback 
+- Get feedback
 
 - Iterate: humility about future
 
-<!-- What do you think?  
+Notes:
+Nobody ever believed the claims to perfection anyway
 
 ---
 
@@ -380,6 +438,13 @@ Illusion of perfection
 - public library
 - bare-bones
 - appeal for help
+
+Notes:
+How does it work beyond software?
+
+I told you this was my claim to fame.
+
+Fail fast: March to July
 
 ---
 
@@ -404,7 +469,12 @@ Illusion of perfection
 
 - Not-invented-here
 
-<!-- outside contribution is a huge sign of success. -->
+Notes:
+We have a tribal instinct.  We know, like, trust our circle.
+
+In FOSS, outside contribution is the brass ring.
+
+A cooperative effort like this is a great example.
 
 ---
 
@@ -439,21 +509,32 @@ Fear of discrediting
 
 Part of iteration
 
+Notes:
+FOSS experience has proven critique is better than just OK.
+
+Bug reports are volunteer QA.
+
+Tests
+
+And, of course, we're discovering this centuries after scientists did.
+
 ---
 
 - Critique never ends
-- Critique without limits 
+- Critique without limits
 
 ---
 
 ## Personal
 
-<!-- What if we allowed bug reports on ourselves? -->
+Bug reports on *us*?
 
-<!-- But we need to be aggressive project managers WONTFIX -->
+Notes:
+Be aggressive project managers
 
-<!-- moonshot -->
+Afraid to give or receive advice
 
+Moonshot
 
 ---
 
@@ -468,7 +549,7 @@ Part of iteration
 
 ---
 
-## Ask RogueLynn 
+## Ask RogueLynn
 
 [Bad news](http://www.roguelynn.com/words/were-not-done-yet/#why-it39s-a-problem)
 
@@ -476,14 +557,27 @@ Part of iteration
 
 [Plain words](http://www.roguelynn.com/words/were-not-done-yet/#bullshit-excuse-1)
 
+Notes:
+Diversity critique is critique, and generates defensiveness and pushback
+
+Moral judgement
+
+This is no time for the software world to congratulate itself.
+
+FOSS community is better, but that's damning with faint praise.
+
+Soft boundaries: delegating to Lynn Root
+
 ---
 
-## Bug reports on diversity 
+## Bug reports on diversity
 
 ![WONTFIX, not malicious]({{site.baseurl}}/assets/pyohio2015/not_malicious.png)
 
 ![WONTFIX, not only]({{site.baseurl}}/assets/pyohio2015/not_only.png)
 
+Notes:
+This would not only make us jerks, it would make us failures.
 
 ---
 
@@ -494,7 +588,22 @@ Part of iteration
 - Disability
 - Background
 
-<!-- it could be exhausting to think of all the kinds of diversity -->
+Notes:
+So much more than gender
+
+Exhausted?  Despair?
+
+---
+
+# Tests
+
+"Software that is not tested is broken."
+
+Notes:
+Programs to test your programs
+
+Verify that they work as you hoped
+and that they *keep* working
 
 ---
 
@@ -506,9 +615,14 @@ Part of iteration
     test_disability.py	  test_racial.py
     test_gender.py        test_religion.py
 
-<!-- explain testing -->
+Notes:
+Tests are part of the program.  Maybe the most important part.
+The part that ensures the quality and the value of the program.
+A systematic way of explaining what we want and verifying that we have it.
 
-<!-- a rich test suite is an asset -->
+A rich test suite is an asset.  A step toward better software.
+
+So a new type of diversity to value is not a burden.  
 
 ---
 
@@ -520,14 +634,16 @@ Part of iteration
 
 YWCA Dayton Summer Camp
 
-<!-- a rich test suite is an asset -->
-
 ---
 
 ## You got this
 
-- Diverse userbase 
+- Diverse userbase
 - Diverse locations
+
+Notes:
+Partnerships!  Libraries have deep roots in all sorts of communities.
+Who can you link your folks to?
 
 ---
 
@@ -550,9 +666,17 @@ YWCA Dayton Summer Camp
 
 - Jargon
 
+Notes:
+"Pay your dues"
+
+"RTFM"
+
 ---
 
 ## Growth == richness
+
+Notes:
+When ideas are shared, the more the better
 
 ---
 
@@ -560,12 +684,14 @@ YWCA Dayton Summer Camp
 
 Smooth the on-ramps!
 
+Notes:
+Don't waste your ignorance!
+
 ---
 
 - Organizations
 - Documentation
-- [Courses](https://wiki.python.org/moin/BeginnersGuide)
-- Tools: [Try Jupyter](https://try.jupyter.org/)
+- Courses
 
 ---
 
@@ -682,7 +808,7 @@ Medieval - on the inside!
 
 ---
 
-> Governing law: GNU GPLv2 Residential Rental Code 
+> Governing law: GNU GPLv2 Residential Rental Code
 
 ---
 
@@ -693,7 +819,7 @@ within $notification_interval_days days...
 { "governing law": "GNU GPLv2 Residential Rental Code",
 "notification_interval_days": 14,
 </pre>
-    
+
 ---
 
 # Jetpack yet?
@@ -738,4 +864,4 @@ catherinedevlin@gmail.com
 
 catherinedevlin.blogspot.com
 
-[bit.ly/pyohio2015keynote](http://bit.ly/pyohio2015keynote)
+[bit.ly/evergreen2017keynote](http://bit.ly/evergreen2017keynote)
